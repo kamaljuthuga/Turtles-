@@ -1,0 +1,28 @@
+body{
+	background-image: url('https://cdn.britannica.com/66/195966-138-F9E7A828/facts-turtles.jpg?w=800&h=450&c=crop');
+	background-size: cover;
+}
+
+h1{
+	font-family: 'Archivo Black', sans-serif;
+}
+
+p{
+	font-family: 'Archivo', sans-serif;
+}
+
+h3{
+	font-family: 'Assistant', sans-serif;
+}
+
+li{
+	font-family: 'Archivo', sans-serif;
+}
+
+button{
+	background-color: gold;
+	color: blue;
+	border-color: gold;
+	display: inline-block;
+	font-family: 'Assistant', sans-serif;
+}
